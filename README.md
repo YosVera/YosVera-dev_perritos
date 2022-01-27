@@ -1,0 +1,5 @@
+# YosVera-dev_perritos
+numpy==1.20.1
+streamlit==0.89.0
+joblib==0.16.0
+scikit-learn
