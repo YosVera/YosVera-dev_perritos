@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 27 14:33:17 2022
-
 @author: yosel
 """
 
